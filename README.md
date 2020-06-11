@@ -1,34 +1,33 @@
 # The 50% Buffett Challenge
-I have done only done 3 interviews in my life for publications... as far as I can remember. 
+As far as I can remember, in my life, I have only done 3 interviews for publications.
 
-The last one was made to me on 2019 - 9 -19.
+The last one I did was on 19 September 2019:
 
 https://yfsmagazine.com/2019/09/19/can-investors-beat-warren-buffetts-50-per-year-return-in-the-stock-market/
 
-Here I mentioned that I was expecting the end to the 13-year bull market. 
+Here, I mentioned that I was expecting the ending of a 13-year bull market. 
 
-And also started the "50% a Year Challenge” based on Warren Buffett's quote that went something among the lines of “If I had $10,000 to invest... It is a huge structural advantage not to have a lot of money. I think I could make you 50% a year on $1 million. No, I know I could. I guarantee that". 
+I also started the "50% a Year Challenge” based on Warren Buffett's quote, which went something among the lines of “If I had $10,000 to invest... It’s a huge structural advantage not to have a lot of money. I think I could make you 50% a year on $1 million. No, I know I could. I guarantee that". 
 
-I spent almost 10 years studying Warren Buffett Strategies. I also beat the challenge with over 56.91% return closing the 2020 - 6- 9. today 2 days later. I'm seating in cash today.
-
-Ready to close the account. Remember I only created this account for the Challenge. 
+I spent almost 10 years studying Warren Buffett strategies. I also beat the challenge with over 56.91% return closing on 9 June 2020. Today, 2 days later, I'm sitting in cash and I am ready to close the account. Remember, I only created this account for the Challenge. 
 
 
 
-here are the screenshots of the results:
+Here are the screenshots of the results:
 
-you can also download the pdf here https://github.com/Neyt/Investment-account
-
-
-
-Here is the screenshot of the account (just as described in the interview 9 months ago, same number)
+You can also download the pdf here: https://github.com/Neyt/Investment-account
 
 
 
-Rate of return on the last account overview: 56.91% Year to date
+Here is the screenshot of the account I used for this challenge (exactly as mentioned in the interview I did 9 months ago - the account number is the same):
 
 
-Here you can see different benchmarks to compare since inception
+
+
+Rate of return on the last account overview: 56.91% Year to date:
+
+
+Here you can see different benchmarks to compare since the inception:
 SPXTR 14.14%
 EFA 2.49%
 VT 8.84%
@@ -36,25 +35,27 @@ ME 54.67%
 
 
 
-Here is the benchmark comparison
+Here is the benchmark comparison:
 
 
 
-And this is the one that I like the best: 
-These returns were achieved with less risk than the market
+And this is the one that I like the best; 
+These returns were achieved with less risk than the market:
 
 
 
-I may do a podcast episode on FinanciallyFreePodcast.com there are very cool interviews. 
-But the summary of this returns is basically
-If you do not find value, or you are not certain of what you invest the stay in cash as long as you need... But put the work everyday
+I may do a podcast episode on FinanciallyFreePodcast.com; there are some very cool interviews. 
+But the summary of these returns is basically this:
+If you don't find value, or you are not certain of what you want to invest in, then stay in cash as long as you need to... but put the work in every single day
 Focus!
-The reason I could get these returns, and anyone for that matter, is because of focus. 
-The reality is that I was expecting for this returns to take longer because I was looking for dark companies that no one else is paying attention to like the interview I posted 2 days ago with Dan Schum here https://financiallyfreepodcast.libsyn.com/24-514-per-year-for-7-years-with-dan-schum
-But the matter of fact is when the covid19 crash came I had to change strategy completely.
+The reason I could get these returns, is because of focus. With focus, you can also get these returns too!
+The reality is that I was expecting for these returns to take longer because I was looking for dark companies/stocks that no one else is paying attention to. 
+I invite you to listen to the interview I did with Dan Schum which I posted 2 days ago; in this interview Dan goes into more detail about dark stocks: https://financiallyfreepodcast.libsyn.com/24-514-per-year-for-7-years-with-dan-schum
+But the fact of the matter is that when the Covid-19 crash came, I had to change strategy completely.
 
-3. Which bring me to the last lesson: don't box yourself to be a "value investor" a "trader", an "option trader" (check my podcast we talk about all of this subjects), be a MAKE MONEY INVESTOR. Those are all tools, different mindsets, do what make sense. 
-Would love to connect. Find me at neytorres.com
+3. This brings me to the last lesson: don't box yourself to be a "value investor" a "trader", an "option-trader" (please do check out my podcast, we talk about all of these subjects). Be a MAKE MONEY INVESTOR. Those are all tools and different mindsets. Do what makes sense. 
+
+I would love to connect. Find me at neytorres.com
 
 
 
